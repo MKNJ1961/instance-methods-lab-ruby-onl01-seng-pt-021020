@@ -8,7 +8,7 @@ end
 fido = Dog.new
 fido.bark
 
-c;ass  Dog
+class  Dog
   def sit
     puts "The Dog is sitting"
   end
