@@ -11,5 +11,6 @@ class Person
   def walk
     puts "The person is walking"
   end
+end
   ada = Person.new
   ada.walk
